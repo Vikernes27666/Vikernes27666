@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">Languages & Frameworks & Tools & Abilities</h3>
+<h3 align="left">Languages & Frameworks & Tools & Abilities</h3>
 
 ###
 
