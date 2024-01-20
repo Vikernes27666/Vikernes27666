@@ -42,7 +42,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif"  />
+<img align="right" height="100" src="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif"  />
 
 ###
 
