@@ -52,6 +52,8 @@
   </a>
 </div>
 
+[![Portafolio](https://example.com/icono-portafolio.svg)](https://portafolio-aroon.vercel.app/)
+
 
 ###
 
