@@ -66,7 +66,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Vikernes27666&show_icons=true&line_" alt="EngincanV's github stats" width="400" />
 </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikernes27666&layout=compact" alt="Top Langs" width="400" />
