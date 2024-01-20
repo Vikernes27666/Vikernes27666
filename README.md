@@ -55,7 +55,7 @@
 
 ###
 
-![EngincanV's github stats](https://github-readme-stats.vercel.app/api?username=Vikernes27666&show_icons=true&line_height=30)
+![EngincanV's github stats](https://github-readme-stats.vercel.app/api?username=Vikernes27666&show_icons=true&line_)
 
 
 ###
