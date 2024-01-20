@@ -57,6 +57,7 @@
   
   <a href="https://portafolio-aroon.vercel.app/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/4100/4100416.png" height="35" alt="portafolio icon" />
+    Portafolio
   </a>
 </div>
 
