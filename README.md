@@ -1,5 +1,9 @@
 <h2 align="left">Hi 👋! My name is Aroon Miranda Campos.</h2>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/naveenverma1/count.svg" />
+</p>
 ###
 
 <p align="left">Passionate web developer with experience in frontend and backend. I love creating secure and appealing online solutions. I am always eager to learn and stay up-to-date with the latest trends in web development and cybersecurity</p>
