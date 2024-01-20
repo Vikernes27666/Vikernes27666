@@ -67,8 +67,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikernes27666&show_icons=true&line_" alt="EngincanV's github stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikernes27666&layout=compact" alt="Top Langs" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vikernes27666&show_icons=true&line_" alt="EngincanV's github stats" width="400" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikernes27666&layout=compact" alt="Top Langs" width="400" height="200" />
 </div>
 
 ###
