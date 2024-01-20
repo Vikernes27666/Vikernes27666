@@ -46,20 +46,23 @@
 
 ###
 
+<h3 align="left">Social Networks</h3>
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/roberto-aroon-miranda-campos-175a7a2a5/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
+  
   <a href="https://portafolio-aroon.vercel.app/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/4100/4100416.png" height="35" alt="portafolio icon" />
   </a>
 </div>
 
-
 ###
 
 ![EngincanV's github stats](https://github-readme-stats.vercel.app/api?username=Vikernes27666&show_icons=true&line_)
-
 
 ###
 
