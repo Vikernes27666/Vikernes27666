@@ -1,9 +1,5 @@
 <h2 align="left">Hi 👋! My name is Aroon Miranda Campos.</h2>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/naveenverma1/count.svg" />
-</p>
 ###
 
 <p align="left">Passionate web developer with experience in frontend and backend. I love creating secure and appealing online solutions. I am always eager to learn and stay up-to-date with the latest trends in web development and cybersecurity</p>
@@ -40,6 +36,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
+
+<br/><br/>
+
+[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/Vikernes27666/Vikernes27666)
+
+<br/>
+
+<br/>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikernes27666show_icons=true)
+
+<br><br>
 ###
 
 <img align="right" height="150" src="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif"  />
