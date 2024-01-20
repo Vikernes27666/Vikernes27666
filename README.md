@@ -54,7 +54,7 @@
   <a href="https://www.linkedin.com/in/roberto-aroon-miranda-campos-175a7a2a5/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-</br>
+</br></br>
   <a href="https://portafolio-aroon.vercel.app/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/4100/4100416.png" height="35" alt="portafolio icon" />
   </a>
@@ -62,10 +62,13 @@
 
 ###
 
-![EngincanV's github stats](https://github-readme-stats.vercel.app/api?username=Vikernes27666&show_icons=true&line_)
+<h3 align="left">Statistics</h3>
 
 ###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikernes27666&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vikernes27666&show_icons=true&line_" alt="EngincanV's github stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikernes27666&layout=compact" alt="Top Langs" width="400" />
+</div>
 
 ###
