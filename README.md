@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Passionate web developer with experience in frontend and backend. I love creating secure and appealing online solutions. I am always eager to learn and stay up-to-date with the latest trends in web development and cybersecurity</p>
+<p align="left">Soy un entusiasta del full-stack y la ciencia de datos, siempre en búsqueda de nuevas formas de crear experiencias digitales cautivadoras. Me esfuerzo por crecer tanto a nivel profesional como personal.</p>
 
 ###
 
@@ -11,11 +11,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/roberto-aroon-miranda-campos-175a7a2a5/" target="_blank">
-  </a>
+  <a href="https://www.linkedin.com/in/roberto-aroon-miranda-campos-175a7a2a5/" target="_blank">Mi perfil de LinkedIn</a>
 </br></br>
-  <a href="https://portfolio-mircam.vercel.app/" target="_blank">
-  </a>
+  <a href="https://portfolio-mircam.vercel.app/" target="_blank">Mi portafolio en línea</a>
 </div>
+
 
 ###
