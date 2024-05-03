@@ -2,47 +2,7 @@
 
 ###
 
-<p align="left">¡Hola 👋! Soy un entusiasta del full-stack y la ciencia de datos, siempre en búsqueda de nuevas formas de crear experiencias digitales cautivadoras. Me esfuerzo por crecer tanto a nivel profesional como personal.</p>
-
-###
-
-<h3 align="left">Languages & Frameworks & Tools & Abilities</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-</div>
-
-###
-
-<img align="right" height="100" src="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif"  />
+<p align="left">Passionate web developer with experience in frontend and backend. I love creating secure and appealing online solutions. I am always eager to learn and stay up-to-date with the latest trends in web development and cybersecurity</p>
 
 ###
 
@@ -52,24 +12,10 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/roberto-aroon-miranda-campos-175a7a2a5/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </br></br>
-  <a href="https://portafolio-aroon.vercel.app/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/4100/4100416.png" height="35" alt="portafolio icon" />
+  <a href="https://portfolio-mircam.vercel.app/" target="_blank">
   </a>
-</div>
-
-###
-
-<h3 align="left">Statistics</h3>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikernes27666&show_icons=true&line_" alt="EngincanV's github stats" width="400" />
-</br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikernes27666&layout=compact" alt="Top Langs" width="400" />
 </div>
 
 ###
