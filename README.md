@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Passionate web developer with experience in frontend and backend. I love creating secure and appealing online solutions. I am always eager to learn and stay up-to-date with the latest trends in web development and cybersecurity</p>
+<p align="left">¡Hola 👋! Soy un entusiasta del full-stack y la ciencia de datos, siempre en búsqueda de nuevas formas de crear experiencias digitales cautivadoras. Me esfuerzo por crecer tanto a nivel profesional como personal.</p>
 
 ###
 
